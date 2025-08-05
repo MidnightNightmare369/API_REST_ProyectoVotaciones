@@ -3,7 +3,7 @@
 Pasos para probrar la API
 
 1-Correr el script SQL
-2-Cambiar la ubicacion del archivo "secretos.json" indicado en el archivo "DatosGenerales.cs" y caambiar tambien el String conexion dentro del archivo "secretos.json"
+2-Cambiar la ubicacion del archivo "secretos.json" indicado en el archivo "DatosGenerales.cs" y cambiar tambien el Strinconexion dentro del archivo "secretos.json"
 3-Iniciar la API desde asp_servicios (se recomienda hacerlo desde dotnet run)
 4-Abrir postman  
 5-Obtener el token de autentificacion enviando el user por medio de un Json (el user se encuentra en el archivo DatosGenerales.cs)
