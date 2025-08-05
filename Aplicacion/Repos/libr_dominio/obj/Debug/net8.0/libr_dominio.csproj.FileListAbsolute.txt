@@ -1,0 +1,13 @@
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\bin\Debug\net8.0\libr_dominio.deps.json
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\bin\Debug\net8.0\libr_dominio.dll
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\bin\Debug\net8.0\libr_dominio.pdb
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\obj\Debug\net8.0\libr_dominio.csproj.AssemblyReference.cache
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\obj\Debug\net8.0\libr_dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\obj\Debug\net8.0\libr_dominio.AssemblyInfoInputs.cache
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\obj\Debug\net8.0\libr_dominio.AssemblyInfo.cs
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\obj\Debug\net8.0\libr_dominio.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\obj\Debug\net8.0\libr_dominio.sourcelink.json
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\obj\Debug\net8.0\libr_dominio.dll
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\obj\Debug\net8.0\refint\libr_dominio.dll
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\obj\Debug\net8.0\libr_dominio.pdb
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_dominio\obj\Debug\net8.0\ref\libr_dominio.dll

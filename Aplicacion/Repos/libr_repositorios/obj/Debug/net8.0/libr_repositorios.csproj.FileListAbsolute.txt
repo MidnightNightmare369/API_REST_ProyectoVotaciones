@@ -1,0 +1,16 @@
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\bin\Debug\net8.0\libr_repositorios.deps.json
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\bin\Debug\net8.0\libr_repositorios.dll
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\bin\Debug\net8.0\libr_repositorios.pdb
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\bin\Debug\net8.0\libr_dominio.dll
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\bin\Debug\net8.0\libr_dominio.pdb
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\obj\Debug\net8.0\libr_repositorios.csproj.AssemblyReference.cache
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\obj\Debug\net8.0\libr_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\obj\Debug\net8.0\libr_repositorios.AssemblyInfoInputs.cache
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\obj\Debug\net8.0\libr_repositorios.AssemblyInfo.cs
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\obj\Debug\net8.0\libr_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\obj\Debug\net8.0\libr_repositorios.sourcelink.json
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\obj\Debug\net8.0\libr_rep.1A8173D4.Up2Date
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\obj\Debug\net8.0\libr_repositorios.dll
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\obj\Debug\net8.0\refint\libr_repositorios.dll
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\obj\Debug\net8.0\libr_repositorios.pdb
+C:\Users\Alvaro\Desktop\API_REST_ProyectoVotaciones\Aplicacion\Repos\libr_repositorios\obj\Debug\net8.0\ref\libr_repositorios.dll
